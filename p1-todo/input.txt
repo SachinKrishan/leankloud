@@ -1,0 +1,10 @@
+for create
+{"task": "Build an API", "due" : "2021-05-24", "status" : "not started"}
+{"task": "marks csv", "due" : "2021-05-20", "status" : "in progress"}
+{"task": "profit!", "due" : "2021-05-20", "status" : "finished"}
+{"task": "sleep", "due" : "2021-05-26", "status" : "not started"}
+
+for update
+{"status": "in progress"}
+
+
